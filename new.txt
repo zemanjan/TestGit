@@ -5,3 +5,4 @@ fsffsfsfff
 :w
 :q
 ahoj mano jak to jde 
+fdfsdfasfaff
