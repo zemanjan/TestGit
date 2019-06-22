@@ -1,4 +1,5 @@
-ZKOUSKA PUSHE 
+
+a novy radek !!!!!
 :w
 :q
 ahoj mano jak to jde 
